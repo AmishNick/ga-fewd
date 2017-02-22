@@ -1,0 +1,23 @@
+h1 {
+     // text-align: center;
+      font-size: 22;
+      color: green;
+      font-size: 50px;
+    }
+
+    .centerstuff {
+        width:300px;
+        padding-left: 30%;
+      }
+
+    .abnormal {
+        font-family: arial;
+        color: purple;
+        font-weight: bold;
+    }
+
+    p#pinky { 
+        text-align: right;
+        font-family: garamond;
+        color: pink;
+        }
