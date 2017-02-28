@@ -1,0 +1,30 @@
+div{
+    background-color: gray;
+    padding: 10px 5px 15px 5px;
+    width: 1000px;
+
+}
+
+p{
+  background-color: salmon;
+    margin: 10px 5px 10px 5px;
+    text-align: center;
+    padding: 15px 5px 15px 5px;
+}
+
+p#a {
+  background-color: black;
+  color: white;
+  margin-top: 8px;
+  margin-bottom: 15px;
+}
+
+p#b {
+  color: blue;
+}
+p#c {
+  color: green;
+}
+p#d {
+  color: yellow;
+}
