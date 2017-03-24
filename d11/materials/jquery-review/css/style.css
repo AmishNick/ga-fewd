@@ -1,0 +1,23 @@
+#box1 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  padding: 20px;
+  margin: 20px;
+}
+
+#box2{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  padding: 20px;
+  margin: 20px;
+}
+
+div.bigger{
+  height: 500px;
+  width: 500px;
+}
+/*.button{
+  background-color: gray;
+}*/
